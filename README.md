@@ -21,7 +21,21 @@
 <h3 align="left">Connect with me:</h3>
 
 
-<p align="left"> <a href="https://www.linkedin.com/in/ileana-a-141904140/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" /> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width="40" height="40" /> </picture> </a>
-  
-<a href="mailto:ileana.aguilar1000@gmail.com" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes/128/message-circle-blue-1024.png" alt="_angelavila" height="40" width="40" /></a></p>
+
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/ileana-a-141904140/" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width="40" height="40" style="vertical-align: bottom;" />
+        </picture>
+    </a>
+    <a href="mailto:ileana.aguilar1000@gmail.com" target="blank">
+        <img align="center" src="https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes/128/message-circle-blue-1024.png" alt="_ileanaaguilar" height="40" width="40" style="vertical-align: top;" />
+    </a>
+</p>
+
+
+
 
