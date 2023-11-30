@@ -31,10 +31,17 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width="40" height="40" style="vertical-align: bottom;" />
         </picture>
     </a>
-    <a href="mailto:ileana.aguilar1000@gmail.com" target="blank">
-        <img align="center" src="https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes/128/message-circle-blue-1024.png" alt="_ileanaaguilar" height="40" width="40" style="vertical-align: top;" />
+    <p1></p1>
+    <a href="mailto:ileana.aguilar1000@gmail.com" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes/128/message-circle-blue-1024.png" />
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes/128/message-circle-blue-1024.png" />
+            <img src="https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes/128/message-circle-blue-1024.png" width="40" height="40" style="vertical-align: bottom;" />
+        </picture>
     </a>
+ 
 </p>
+
 
 
 
