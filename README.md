@@ -5,9 +5,13 @@
 
 <h3 align="left">About me:</h3>
 
+- CodePath Intermediate Web Development Student
 - Bloomberg Data Analysis Mentee 
-- Google Software Engineer Mentee 
-- Girls who code member
+- Google Software Engineer Mentee
+- Project Basta Fellow
+- Girls Who Code Member
+- ColorStack Member
+- Rewriting the Code Member
 - 👩🏻‍💻 Currently creating new projects
 
 <h3 align="left">Languages and Tools:</h3>
