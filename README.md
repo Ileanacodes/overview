@@ -12,7 +12,7 @@
 - Girls Who Code Member
 - ColorStack Member
 - Rewriting the Code Member
-- 👩🏻‍💻 Currently creating new projects
+- 👩🏻‍💻 Currently working on new projects
 
 <h3 align="left">Languages and Tools:</h3>
 
