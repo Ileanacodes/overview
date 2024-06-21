@@ -5,7 +5,7 @@
 
 <h3 align="left">About me:</h3>
 
-- CodePath Intermediate Web Development Student
+- CodePath Intermediate Web Development Alumni
 - Bloomberg Data Analysis Mentee 
 - Google Software Engineer Mentee
 - Project Basta Fellow
